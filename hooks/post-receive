@@ -1,0 +1,4 @@
+#!/bin/sh
+#
+#checkout files
+git --work-tree=/var/www/officialSite --git-dir=five-point-check-official-webstite checkout -f
